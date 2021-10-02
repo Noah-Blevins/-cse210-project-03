@@ -22,12 +22,12 @@ def get_mastermind():
     print(f"Player {playerTwo} : ----, ****")
     print("-------------------------------\n")
 
-    # player one
+    # player one guesses
     print(f"{playerOne}'s turn:")
     player_a = int(input("What is your guess? "))
 
     print("-------------------------------\n")
-    # player two
+    # player two guesses
     print(f"{playerTwo}'s turn:")
     player_b = int(input("What is your guess? "))
 
@@ -40,3 +40,4 @@ def get_mastermind():
         print(f"{playerTwo} Won!")
     else:
         print("End of the Mastermind!")
+    # loops until one guesses the right answer
