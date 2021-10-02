@@ -5,7 +5,7 @@ A command-line tool for checking source code documentation requirements.
 Authors:
   - Ogunniyi Owamamwen
   - Marcus Blanc
-  -
+  - Joshua Montoya
   -
   -
 """
