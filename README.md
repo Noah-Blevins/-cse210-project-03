@@ -60,3 +60,8 @@ root                    (project root folder)
 -
 -
 -
+
+
+Console output
+
+![Screenshot 2021-10-02 at 17 52 36](https://user-images.githubusercontent.com/90800458/135723746-f221b566-01e9-46fa-b1de-f4cf564bcecd.png)
