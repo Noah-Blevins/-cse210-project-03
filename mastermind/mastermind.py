@@ -32,3 +32,11 @@ def get_mastermind():
     player_b = int(input("What is your guess? "))
 
     print("-------------------------------\n")
+    
+    # guess condition terminates if true.
+    if (player_a == num):
+        print(f"{playerOne} Won!")
+    elif (player_b == num):
+        print(f"{playerTwo} Won!")
+    else:
+        print("End of the Mastermind!")
