@@ -10,7 +10,7 @@ Authors:
   -
 """
 import random
-from jumper import get_mastermind
+from mastermind import get_mastermind
 
 
 def main():
