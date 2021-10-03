@@ -6,7 +6,7 @@ Authors:
   - Ogunniyi Owamamwen
   - Marcus Blanc
   - Joshua Montoya
-  -
+  - Noah Blevins
   -
 """
 import random
