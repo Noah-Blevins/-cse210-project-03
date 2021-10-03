@@ -60,7 +60,7 @@ root                    (project root folder)
 - Marcus Blanc - blancmarcus22@gmail.com
 - Joshua Montoya - joshuamntoya@gmail.com
 -
--
+- Noah Blevins - noah.james.blevins@gmail.com
 -
 
 
