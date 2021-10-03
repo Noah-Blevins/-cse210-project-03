@@ -59,8 +59,8 @@ root                    (project root folder)
 - Ogunniyi Owamwmen - ogunniyiowamamwen@gmail.com
 - Marcus Blanc - blancmarcus22@gmail.com
 - Joshua Montoya - joshuamntoya@gmail.com
--
--
+- Noah Blevins - noah.james.blevins@gmail.com
+- 
 -
 
 
